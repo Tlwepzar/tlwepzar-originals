@@ -110,7 +110,7 @@ li {
   -moz-transition: padding 0.2s linear;
   -o-transition: padding 0.2s linear;
   transition: padding 0.2s linear;
-  background: url(./App/assets/img/banner-mp.jpg) 70% 0  fixed;
+  background: url(./App/assets/img/banner-mp.jpg) 70% 0 no-repeat fixed;
   color: #ffffff;
 }
 
