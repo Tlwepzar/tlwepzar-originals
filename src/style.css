@@ -290,3 +290,73 @@ Note: Beware of modifying this element as it can break the animations - you shou
 .bm-overlay {
   background: rgba(0, 0, 0, 0.3);
 }
+
+#contact-form {
+  width: 80%;
+  margin: 0 10% 0 10%;
+}
+
+input {
+  width: 30%;
+  padding: 1em;
+  margin: 0.5em;
+  font-size: 15px;
+  border-radius: 2em;
+  border: #000000 2px solid;
+}
+
+textarea {
+  width: 65%;
+  height: 90px;
+  padding: 1em;
+  margin: 0.5em;
+  font-size: 15px;
+  border-radius: 2em;
+  border: #000000 2px solid;
+}
+
+#firstname {
+  text-align: center;
+}
+
+#surname {
+  text-align: center;
+}
+
+#mobileNo{
+  width: 65%;
+}
+
+#email{
+  width: 65%;
+}
+
+.social-icons {
+  float: left;
+  margin: 10px 0 20px 150px;
+}
+
+#submit {
+  width: 70%;
+  margin-left: 10px;
+}
+
+#submit:hover {
+  background-color: #bcffc7;
+}
+
+#github {
+  margin-right: 20px;
+}
+
+#linkedin {
+  margin-right: 30px;
+}
+
+#twitter {
+  margin-right: 30px;
+}
+
+#instagram {
+  margin-right: 30px;
+}
